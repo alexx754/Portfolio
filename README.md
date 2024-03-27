@@ -1,2 +1,2 @@
 # Portfolio
-In den verschiedenen BRanches sind die jeweiligen Projekte
+In den verschiedenen Branches sind die jeweiligen Projekte
